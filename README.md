@@ -14,3 +14,7 @@ Find and extract the LocationHistory.json file to this folder to get started. Th
 ```
 python3 glhv.py LocationHistory.json
 ```
+
+## Output example
+
+![output image](examples/my_map.png)
